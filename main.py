@@ -28,7 +28,7 @@ import os
 from typing import Optional
 
 # Default API configuration
-DEFAULT_API_HOST = "http://34.67.4.17:8080"
+DEFAULT_API_HOST = "http://34.44.64.78:8080"
 DEFAULT_API_PATH = "/api/v1/chat"
 
 
